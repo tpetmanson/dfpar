@@ -54,8 +54,8 @@
 
 // if your compiler misses some C++11 features, you can substitute them with boost functionality
 // and uncomment some of the following lines
-#define DFPAR_USE_BOOST_THREADS
-#define DFPAR_USE_BOOST_RANDOM
+//#define DFPAR_USE_BOOST_THREADS
+//#define DFPAR_USE_BOOST_RANDOM
 
 // strings & streams
 #include <iostream>
